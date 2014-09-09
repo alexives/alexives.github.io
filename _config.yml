@@ -1,8 +1,8 @@
 # Site settings
 title: Alex Ives
 email: alex@ives.mn
-description: "Computer Enthuseist."
-baseurl: ""
+description: "I like making things."
+baseurl: "/"
 url: "http://alexives.github.io"
 github_username:  alexives
 twitter_username: alexeives
