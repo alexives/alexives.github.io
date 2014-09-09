@@ -4,8 +4,8 @@ email: alex@ives.mn
 description: "Computer Enthuseist."
 baseurl: ""
 url: "http://alexives.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  alexives
+twitter_username: alexeives
 
 # Build settings
 markdown: kramdown
