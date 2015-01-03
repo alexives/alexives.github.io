@@ -9,7 +9,8 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Courier, monospace;
+  font-color: #2b2b2b;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -51,9 +52,35 @@ img {
   background-color: white;
 }
 
+.robot-arm {
+  position: absolute;
+  margin-top: 3px;
+  height: 50px;
+}
+
+.robot-arm-box {
+  position: absolute;
+  height: 14px;
+  right: 50%;
+  margin-right: 390px;
+  top: 25px;
+  left: 0px;
+  background-color: #2b2b2b;
+}
+
+.robot-arm-box-always {
+  position: absolute;
+  height: 14px;
+  top: 25px;
+  width: 40px;
+  margin-left: -30px;
+  background-color: #2b2b2b;
+}
+
 .site-title,
 .site-title:hover,
 .site-title:visited {
+  margin-left: 35px;
   display: block;
   color: #333;
   font-size: 26px;
