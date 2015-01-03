@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1>{{ page.beer }} <span class="brewery">by {{ page.brewery }}</span><span class="overall">{{ page.overall-score }}</span></h1>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+    <div class="aroma">Aroma: <span>{{ page.aroma-score }}/12</span></div>
+    <div class="appearance">Appearance: <span>{{ page.appearance-score }}/3 </span></div>
+    <div class="flavor">Flavor: <span>{{ page.flavor-score }}/20</span></div>
+    <div class="mouthfeel">Mouthfeel: <span>{{ page.mouthfeel-score }}/5 </span></div>
+    <div class="overview">Overview: <span>{{ page.overview-score }}/10</span></div>
+
+  <article class="post-content">
+  {{ content }}
+  </article>
+
+</div>

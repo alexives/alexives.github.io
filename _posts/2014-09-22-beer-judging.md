@@ -25,7 +25,4 @@ Stewarding is fun and all, but judging is often the end goal for people who star
 
 In general the rest of the positions are taken up by people who fall into one of two categories: People who are home brewers, and people who know home brewers. Occasionally you get people who decide they'd be good at it an just sign up with ideas along these lines: "I like judging things, and I like beer, therefore beer judging". For those of you considering this out there, I'd strongly suggest trying out some home brewing first. It puts you in the shoes of those who you are judging, and it helps you give better feedback. The point of beer judging in homebrew is that you *want* to give good honest feedback to people that they can take back to their brew pot and fermenters and do better next time, not just take someone down a notch.
 
-### My Judging Experiences
-The first time I judged was a mildly frightening experience for me. First, you have to put your name and email address at the top of a sheet, write about what you think about something someone totally anonymous spent a lot of time on, and then send it back to them. With that in mind, it's always good to be nice to people, even if their beer is awful. Even if I cringe through it I try really hard to find one single thing that I like about it.
-
-### How to identify a good 
+I'll probably post more about this at some point. In the mean time, I'll just point you out to a new area of my site! I'm going to start posting the occasional beer review. I'll probably do mostly bjcp-style reviews, but hopefully somebody will care/read them.
