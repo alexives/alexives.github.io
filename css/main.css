@@ -9,18 +9,24 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Courier, monospace;
+  font-color: #2b2b2b;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+h1 {
+  font-size: 180%;
+}
 
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
+a
 
 img {
    max-width: 800px;
@@ -38,6 +44,10 @@ img {
   zoom: 1;
 }
 
+.dash {
+  height: 18px;
+}
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -51,17 +61,48 @@ img {
   background-color: white;
 }
 
+.robot-arm {
+  position: absolute;
+  margin-top: 3px;
+  height: 50px;
+}
+
+.robot-arm-box {
+  position: absolute;
+  height: 14px;
+  right: 50%;
+  margin-right: 390px;
+  top: 25px;
+  left: 0px;
+  background-color: #2b2b2b;
+}
+
+.robot-arm-box-always {
+  position: absolute;
+  height: 14px;
+  top: 25px;
+  width: 40px;
+  margin-left: -30px;
+  background-color: #2b2b2b;
+}
+
 .site-title,
 .site-title:hover,
 .site-title:visited {
+  margin-left: 35px;
   display: block;
-  color: #333;
+  color: #2b2b2b;
   font-size: 26px;
   letter-spacing: -1px;
   float: left;
   line-height: 56px;
   position: relative;
   z-index: 1;
+  text-decoration: none;
+}
+
+.site-title:hover {
+  color: #333;
 }
 
 .site-nav {
@@ -150,7 +191,10 @@ img {
 
 .home h1 { margin-bottom: 25px; }
 
-.posts { list-style-type: none; }
+.posts { 
+  list-style-type: none; 
+  float: left;
+}
 
 .posts li { margin-bottom: 30px; }
 
@@ -262,6 +306,88 @@ img {
   border-radius: 3px;
 }
 
+/* beer on index */
+
+.beer {
+  border: 1px solid #999;
+  width: 300px;
+  float: right;
+  display: block;
+  list-style: none;
+  border-radius: 5px;
+}
+
+span.beer-review {
+  padding: 4px;
+  display: block;
+}
+
+.beer-review-link {
+  font-size: 14px;
+  padding: 4px;
+  display: block;
+}
+
+.beer-review-link:hover {
+  background-color: #ccc;
+}
+
+/* beer layout */
+
+.aroma, .appearance, .mouthfeel, .flavor {
+  padding: 0px 5px;
+  width: 200px;
+  border-bottom: 1px solid #999;
+}
+
+.overview {
+  padding: 0px 5px;
+}
+
+.flavor, .aroma, .overview {
+  background-color: #eee;
+}
+
+.properties {
+  margin-left: 10px;
+  width: 210px;
+  border-radius: 4px;
+  border: 1px solid #999;
+}
+
+.properties div span {
+  float: right;
+}
+
+.properties {
+  float: right;
+}
+
+span.overall-label {
+  float: right;
+  font-size: 10px;
+  position: absolute;
+}
+
+span.overall-box {
+  margin-top: -17px;
+  float: right;
+  font-size: 46px;
+}
+
+span.overall-score {
+  font-size: 36px;
+  float: right;
+}
+
+.brewery {
+  white-space: nowrap;
+  font-size: 18px;
+  color: #818181;
+}
+
+
+
 .post pre.terminal code { background-color: #333; }
 
 /* Syntax highlighting styles */
@@ -350,6 +476,10 @@ img {
     width: auto;
     float: none;
     clear: both;
+  }
+
+  .beer {
+    width: 100%;
   }
 
 }
