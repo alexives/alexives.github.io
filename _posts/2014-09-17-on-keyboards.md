@@ -72,4 +72,4 @@ I'm going to be building one, but I'll go into that next week. First I want to t
 
 I should get the parts this weekend, so I guess I'll see how it goes!
 
-[Next keyboard post --->]({{site.baseurl}}/keyboards/2014/09/17/on-keyboards/)
+[Next keyboard post --->]({{site.baseurl}}keyboards/2014/10/05/sourcing-the-ergodox/)
