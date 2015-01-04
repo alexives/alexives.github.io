@@ -349,8 +349,7 @@ span.beer-review {
 }
 
 .properties {
-  margin: none;
-  padding: none;
+  margin-left: 10px;
   width: 210px;
   border-radius: 4px;
   border: 1px solid #999;
