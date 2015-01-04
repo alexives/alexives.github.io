@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-  <h1>Posts</h1>
-
   <ul class="posts">
     {% for post in site.posts %}
       {% if post.layout != 'beer' %}
@@ -17,20 +15,16 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h1>Beer Reviews</h1>
-
-
-  <ul class="posts">
+  <ul class="beer">
+    <span class="beer-review">Beer Reviews</span>
     {% for post in site.posts %}
       {% if post.layout == 'beer' %}
-        <li>
-          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.beer }} by {{ post.brewery }} - {{ post.overall-score }}</a>
+        <li class="beer-review">
+          <a class="beer-review-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.beer }} by {{ post.brewery }}<br /> 
+          <span class="beer-review-date">{{ post.date | date: "%b %-d, %Y" }} - {{ post.overall-score }}</span></a>
         </li>
       {% endif %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
