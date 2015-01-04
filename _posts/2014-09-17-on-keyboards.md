@@ -71,3 +71,5 @@ I'm going to be building one, but I'll go into that next week. First I want to t
 6. Cost. By sourcing my own parts and making the case, I've got the cost down to ~$150, I'm harvesting some old keycaps from my dad's defunct das keyboard, and building the case from some scrap hobby plywood I've got around the garage (and can laser cut at my local maker space).
 
 I should get the parts this weekend, so I guess I'll see how it goes!
+
+![Next keyboard post]({{site.baseurl}}/keyboards/2014/09/17/on-keyboards/)
