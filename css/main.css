@@ -67,6 +67,12 @@ img {
   height: 50px;
 }
 
+.robot-arm-logo {
+  padding-left: 30px;
+  float: right;
+  height: 50px;
+}
+
 .robot-arm-box {
   position: absolute;
   height: 14px;
@@ -492,6 +498,10 @@ span.overall-score {
 }
 
 @media screen and (max-width: 600px) {
+
+  .robot-arm-logo {
+    display: none;
+  }
 
   .wrap { padding: 0 12px; }
 
