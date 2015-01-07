@@ -285,6 +285,13 @@ img {
   overflow:scroll;
 }
 
+.post img {
+  max-width: 800px;
+  max-height: 4;
+  float: right;
+  margin: 10px 0;
+}
+
 .post code { padding: 1px 5px; }
 
 .post ul,

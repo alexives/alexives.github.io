@@ -16,4 +16,4 @@ For the Case, I decided to make my own. As a member at [twin cities maker / the 
 #### Keycaps
 For the keycaps, I like having letters on them. When my wife wants to use my strange keyboard, she's going to want to have letters on the keys so that she knows where things are. I considered blank keys, but I didn't want to deal with that fallout. Instead I opted for a two pronged approach. I ordered a set of the modifier keys from [Pimp my Keyboard](http://keyshop.pimpmykeyboard.com/products/full-keysets/dsa-blank-sets-1), and then I ordered a set of double shot keys from Rosewill (via amazon) to fill out the middle. I figure she probably won't use a lot of the modifier keys anyway, so mostly it's the letters and numbers I have to worry about. All told, it was ~50 for the keycaps.
 
-[<--- Previous keyboard post]({{site.baseurl}}/keyboards/2014/09/17/on-keyboards/)
+[<--- Previous keyboard post]({{site.baseurl}}/keyboards/2014/09/17/on-keyboards/) [Next keyboard post --->]({{site.baseurl}}/keyboards/2015/01/03/building-the-ergodox/)
