@@ -200,6 +200,7 @@ img {
 .posts { 
   list-style-type: none; 
   float: left;
+  max-width: 560px;
 }
 
 .posts li { margin-bottom: 30px; }
