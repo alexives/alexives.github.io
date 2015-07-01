@@ -15,7 +15,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <ul class="beer">
+  <ul class="beer" style="display:none">
     <span class="beer-review">Beer Reviews</span>
     {% for post in site.posts %}
       {% if post.layout == 'beer' %}
