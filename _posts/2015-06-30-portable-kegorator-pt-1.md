@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Building a Portable Kegorator, Pt 1"
+title:  "Porta-keg-o-rator, Pt 1"
 date:   2015-6-30 09:42
-categories: beer, kegs, party
+categories: beer kegs party build
 ---
 Once upon a time, built a kegorator. It was a fun and interesting and it's continuted to evolve over time. At this point, however, I'm basically to the point with it where there isn't much more that I want to do with it. There isn't any more space for kegs, I could add a second regulator, or convert a tap to nitro, but I don't feel like I need it, and with only 3 kegs in there a nitro tap feels extravagent. 
+
+![Keg-o-rator]({{site.baseurl}}/images/kegorator.jpg) 
 
 One thing I do occasionally have a need for is a portable serving solution. At the moment, I use a picnic tap and a quick connect on my co2 tank to bring it places, but it's an anoying time, and I still have to have a bucket of ice at the destination to keep the beer cold. There are several less than ideal factors here.
 
@@ -17,13 +19,12 @@ One thing I do occasionally have a need for is a portable serving solution. At t
 2. Must have a surface for a cup to sit on with a real tap tower on it and a drip tray.
 3. It has to look nice, people like things that look nice.
 
-So, how should I accomplish this? My first attempt ended a dismal failure. I bought a trash can with a lid from the hardware store and tried putting a tap tower on it. It was big enough for the keg and the co2 tank so it seemed good. But the lid was so flimsy so the attached tap tower would actually flex the top of the lid if you tried to pour from it. It also looked like garbage. Eventually, we needed a yard waste bin and it was nearly imediately sacrificed.
+So, how should I accomplish this? My first attempt ended a dismal failure. <span style="float:left; margin-right: 20px">![Garbage Can]({{site.baseurl}}/images/garbage-can.jpg)</span> I bought a trash can with a lid from the hardware store and tried putting a tap tower on it. It was big enough for the keg and the co2 tank so it seemed good. But the lid was so flimsy so the attached tap tower would actually flex the top of the lid if you tried to pour from it. It also looked like garbage. Eventually, we needed a yard waste bin and it was nearly imediately sacrificed.
 
-![Garbage Can]({{site.baseurl}}/images/garbage-can.png) 
 
 That was almost a year and a half ago, and I've been thinking about it since then. A few days ago, i was at Ax-Man in St Paul. If you live in the twin cities area and you haven't been to Ax-man, you're missing out. It's an experience in and of itself. They've got motors, wires, beads, casters, random electronic components, and a whole lot of other random stuff. They've even got an iron lung (though I don't think it's for sale). While I was there I found this gem. I think it was originally designed to transport endcap signage for a store or something. 
 
-![Signage Carrier]({{site.baseurl}}/images/signage-carrier.png)
+![Signage Carrier]({{site.baseurl}}/images/signage-carrier.jpg)
 
 It has a few features I care about: It locks shut with a combo lock that I actually know the code to. It is just big enough to hold both a corny keg AND a co2 bottle, meaning it can hide all of the stuff. It has casters that would let me roll it around. It's top is just about bar height.
 
