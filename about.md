@@ -11,7 +11,7 @@ Well, I am starting this site as a place to document projects, ideas, reviews, e
 
 Blacksmithing is one thing. I've been blacksmithing since 2005, it's something that I wanted to do full time at one point, but honestly I wasn't THAT good at it, and I realized that I would probably be more finaincailly comfortable if I went somewhere practical like computers, and it made more sense as a hobby.
 
-Software stuff maybe? When I'm not blacksmithing (which is more often that I'd like), I'm a software developer here in Minneapolis. Right now, I work for [Code42 Software](http://www.code42.com), we make this stuff called CrashPlan, that some people use. Mostly I work on their server product. Occasionally I like to do software projects, who knows what I'm going to work on now, but maybe it'll be something cool and I'll be able to put something worthwhile here on github.
+Software stuff maybe? When I'm not blacksmithing (which is more often that I'd like), I'm a software engineer here in Minneapolis. Right now, I work for [Code42 Software](http://www.code42.com), we make this stuff called CrashPlan, that some people use. I used to mostly work on their server product, but now I do much more with the clients. And also our build system. Occasionally I like to do software projects, who knows what I'm going to work on now, but maybe it'll be something cool and I'll be able to put something worthwhile here on github.
 
 Some small electronics, I've been facinated by keyboards recently, I'm thinking about making my own. Probably I'll start with an ergodox and move from there.
 
