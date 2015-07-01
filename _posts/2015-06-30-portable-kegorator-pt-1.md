@@ -30,6 +30,7 @@ It has a few features I care about: It locks shut with a combo lock that I actua
 
 Since I don't want to blow the bank on this, I'm going to break it up in to phases, mostly around adding new co2 hardware. Unfortuneately while it has space for both tanks while it's EMPTY, I'm going to add some insulation and make it hold water so that when I add ice it won't A) melt immediately, and B) leak a bunch of water out on the floor if i want to use it inside.
 
+### Next Steps
 Step one is insulating. Since the inside is pretty big (and I'm not trying to fill it up with a bulky CO2 canister anymore, but I'll come to that later), I really want to fill most of it with foam. My choice for this is polystyrene insulation for two reasons. 1) It's waterproof. 2) It's cheap. Our local Menards has it for ~$2 for a 14"x3/4"x8' sheet. Three of them should be more than enough to build a box inside. Then, I'll use spray foam on the edges so that it makes a really good seal around the whole thing, and maybe fills up a little space into the weird edges of this box.
 
 From there I'll drill a small hole in the bottom and feed a co2 line through. Short term, even though it's one of my stated end goals, I'm not going to hide the co2 tank. While it does look jenky, Courtney pointed out to me that most people end up playing with it because they don't understand the picnic tap. I think she might be right, and since it means keeping the beer a little colder, I'll go for it for now.
