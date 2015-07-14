@@ -35,3 +35,5 @@ Step one is insulating. Since the inside is pretty big (and I'm not trying to fi
 From there I'll drill a small hole in the bottom and feed a co2 line through. Short term, even though it's one of my stated end goals, I'm not going to hide the co2 tank. While it does look jenky, Courtney pointed out to me that most people end up playing with it because they don't understand the picnic tap. I think she might be right, and since it means keeping the beer a little colder, I'll go for it for now.
 
 After that's done, I'm going to try and figure out a little insulation for the top, that'll probably just mean having the walls stick up into the lid and then a cover with holes for the hoses. Hopefully this won't be to long before I send another update.
+
+[Next Porta-keg-o-rator post (pt 2) --->]({{site.baseurl}}/beer/kegs/party/2015/07/13/portable-kegorator-pt-2/)
