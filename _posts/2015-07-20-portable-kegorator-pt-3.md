@@ -21,4 +21,4 @@ I've given the drain a lot of thought. Originally I was going to just have it dr
 
 On the outside, [Courtney](http://courtney.ives.mn) is still getting started on the mosaic, so no news there. We're supposed to bring this thing to a party this weekend, so I guess we'll have to get it all together pretty quickly.
 
-[<--- Previous Porta-keg-o-rator post (pt 1)]({{site.baseurl}}/beer/kegs/party/2015/07/13/portable-kegorator-pt-2/)
+[<--- Previous Porta-keg-o-rator post (pt 2)]({{site.baseurl}}/beer/kegs/party/2015/07/13/portable-kegorator-pt-2/)

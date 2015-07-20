@@ -18,4 +18,4 @@ Courtney tried to talk me out of the drian, we don't have on our normal kegorato
 
 Next step is finishing up the top, the sooner Courtney can start tiling it, the better off I'll be. She takes a bit longer with her art, though the wait is definitely worth it. If she had to do it all in a couple of days, she would, but it wouldn't be quite as good.
 
-[<--- Previous Porta-keg-o-rator post (pt 1)]({{site.baseurl}}/beer/kegs/party/build/2015/06/30/portable-kegorator-pt-1/) [Next Porta-keg-o-rator post (pt 3) --->]({{site.baseurl}}/beer/kegs/party/2015/07/20/portable-kegorator-pt-3/)
+[<--- Previous Porta-keg-o-rator post (pt 1)]({{site.baseurl}}/beer/kegs/party/build/2015/06/30/portable-kegorator-pt-1/) \| [Next Porta-keg-o-rator post (pt 3) --->]({{site.baseurl}}/beer/kegs/party/2015/07/20/portable-kegorator-pt-3/)
