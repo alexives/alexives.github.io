@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "So I tried to make an Ergodox ..."
-date:   2015-1-3 03:58:44
+date:   2015-1-3 13:58:44
 categories: keyboards
+seqprevious: /keyboards/2014/10/05/sourcing-the-ergodox/
+seqnext: /keyboards/2015/06/29/ergodox-update/
 ---
 
 So, you'll notice in this has had a substancial amount of time since the last time I posted about the keyboard... Sufice to say, things didn't go that well. At any rate, and I'll tell you my pitfalls and where I plan on going from here!
@@ -29,5 +31,3 @@ I can't take credit for all of that design, I did the flying saucer and the beam
 
 #### Where I'm going next
 I've clearly abandoned this project for several months. Now that some of my wounded pride has worn off, I'm going to try and finish it. And by finish it, I mean, I'm going to start the left hand again from scratch with a new PCB. Right now, [Mechanical Keyboards](http://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=537) is out of stock on the pcb's and I'm feeling a little too lazy to have them fabbed anywhere. So I'll wait patiently for them to come back in stock and order another set. I'm beginning to approach the cost of the massdrop kit, so that has me a bit bummed. In the mean time, I did manage to pull the key off the right half of my space bar on my microsoft sculpt and fix it without breaking it. So that's a plus. I'm still using the sculpt and I think I still like it okay, but I'm sad that I don't have an ergodox at my desk right now.
-
-[<--- Previous keyboard post]({{site.baseurl}}/keyboards/2014/10/05/sourcing-the-ergodox/) [Next keyboard post --->]({{site.baseurl}}/keyboards/2015/06/29/ergodox-update/)

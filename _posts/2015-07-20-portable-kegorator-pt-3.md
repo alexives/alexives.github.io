@@ -3,6 +3,8 @@ layout: post
 title:  "Porta-keg-o-rator, Pt 3"
 date:   2015-7-20 21:42
 categories: beer kegs party
+seqprevious: /beer/kegs/party/2015/07/13/portable-kegorator-pt-2/
+seqnext: /beer/kegs/party/2015/07/31/portable-kegorator-pt-4/
 ---
 
 ## Update on the Porta-keg-o-rator
@@ -20,5 +22,3 @@ For the beverage line it's a little less clear. I have some insulation around, a
 I've given the drain a lot of thought. Originally I was going to just have it drain into the convenient basin on the top, but I think I'm going to want that space for more than that, so I'm thinking that I'll want to probably find something else. I'm thinking either a bottle, hooked up to the drain, or a tupperware sort of thing sitting in the current basin. The advantage of the bottle is that it'll seal and if it fills up it'll be visible in the drain. But the tupperware would be easier to implement.
 
 On the outside, [Courtney](http://courtney.ives.mn) is still getting started on the mosaic, so no news there. We're supposed to bring this thing to a party this weekend, so I guess we'll have to get it all together pretty quickly.
-
-[<--- Previous Porta-keg-o-rator post (pt 2)]({{site.baseurl}}/beer/kegs/party/2015/07/13/portable-kegorator-pt-2/)
