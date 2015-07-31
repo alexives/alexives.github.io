@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Keyboards, I use them. A lot."
-date:   2014-9-17 03:58:44
+date:   2014-9-17 13:58:44
 categories: keyboards
+seqnext: /keyboards/2014/10/05/sourcing-the-ergodox/
 ---
 My quest for keyboards started about a year ago. I started getting pain in my wrists after work. As a software engineer, my wrists are very important to me. Being comfortable is very important to me. So I thought I would share with you my path to where I am today, and keep you updated along with what I'm doing.
 
@@ -71,5 +72,3 @@ I'm going to be building one, but I'll go into that next week. First I want to t
 6. Cost. By sourcing my own parts and making the case, I've got the cost down to ~$150, I'm harvesting some old keycaps from my dad's defunct das keyboard, and building the case from some scrap hobby plywood I've got around the garage (and can laser cut at my local maker space).
 
 I should get the parts this weekend, so I guess I'll see how it goes!
-
-[Next keyboard post --->]({{site.baseurl}}/keyboards/2014/10/05/sourcing-the-ergodox/)

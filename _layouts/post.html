@@ -10,6 +10,14 @@ layout: default
 
   <article class="post-content">
   {{ content }}
+
+  <p class="meta">
+  	{% if page.seqprevious != null %}
+  	  <a href="{{page.seqprevious}}">[<-- Previous]</a>
+    {% endif %}
+  	{% if page.seqnext != null %}
+  	  <a href="{{ page.seqnext }}">[Next -->]</a>
+    {% endif %}
   </article>
 
 </div>
