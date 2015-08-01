@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Update on the Ergodox"
 date:   2015-6-29 08:58:44
 categories: keyboards

@@ -6,7 +6,13 @@ layout: default
   <header class="post-header">
   	<p class="meta">Software release:</p>
     <h1 style="height: 97px;display:block;"><img style="height:60px;width:60px;float:left;border-radius:15px;padding:5px;margin-right:10px;border:1px solid #888;" src="{{ site.baseurl }}/{{ page.icon }}"/>{{ page.title }}</h1>
-    <p class="meta"><a href="{{ page.repo }}">View Code</a> - <a href="{{ page.release }}">Download Latest</a></p>
+    <p class="meta">
+  	{% if page.repo != null %}
+  	  <a href="{{ page.repo }}">[View Code]</a>
+    {% endif %}
+  	{% if page.latest_release != null %}
+      <a href="{{ page.latest_release }}">[Download Latest]</a>
+    {% endif %}</p>
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 

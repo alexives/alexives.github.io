@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Keyboards, I use them. A lot."
 date:   2014-9-17 13:58:44
 categories: keyboards

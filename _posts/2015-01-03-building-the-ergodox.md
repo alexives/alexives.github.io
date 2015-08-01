@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "So I tried to make an Ergodox ..."
 date:   2015-1-3 13:58:44
 categories: keyboards

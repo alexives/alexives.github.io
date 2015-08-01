@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Sourcing Parts for the ErgoDox"
 date:   2014-10-5 13:58:44
 categories: keyboards

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Porta-keg-o-rator, Pt 1"
 date:   2015-6-30 09:42
 categories: beer kegs party build
