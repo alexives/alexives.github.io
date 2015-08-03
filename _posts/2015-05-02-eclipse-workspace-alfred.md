@@ -12,5 +12,3 @@ The issue with opening it in an iTerm session is this: If I close that iTerm win
 
 ![Workspaces from alfred]({{site.baseurl}}/images/alfred-eclipse/eclipse-workspaces.png)
 More recently I switched to using [Alfred 2](http://alfredapp.com) as my quick launch on OS X. After months of using it I finally bought the paid version that let's you make custom workflows (read plugins) to automate various tasks. To that end, I spent a little time putting together a workflow that lets me jump straight to an eclipse workspace. The concept is simple. It looks for an instance of eclipse using mdfind, and looks at the settings file for a list of workspaces I've opened in the past. The one downside is if I had workspaces I've never opened this won't find them, but for the most part that's a sort of one off scenario and I decided I didn't care.
-
-#### [Get Alfred 2 here](http://alfredapp.com)
