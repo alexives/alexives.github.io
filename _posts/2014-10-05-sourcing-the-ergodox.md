@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: project
 title:  "Sourcing Parts for the ErgoDox"
 date:   2014-10-5 13:58:44
 categories: keyboards
+author: Alex Ives
 seqprevious: /keyboards/2014/09/17/on-keyboards/
 seqnext: /keyboards/2015/01/03/building-the-ergodox/
 ---

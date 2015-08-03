@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: project
 title:  "Porta-keg-o-rator, Pt 1"
 date:   2015-6-30 09:42
 categories: beer kegs party build
+author: Alex Ives
 seqnext: /beer/kegs/party/2015/07/13/portable-kegorator-pt-2/
 ---
 Once upon a time, built a kegorator. It was a fun and interesting and it's continuted to evolve over time. At this point, however, I'm basically to the point with it where there isn't much more that I want to do with it. There isn't any more space for kegs, I could add a second regulator, or convert a tap to nitro, but I don't feel like I need it, and with only 3 kegs in there a nitro tap feels extravagent. 

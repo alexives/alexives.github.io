@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: project
 title:  "Porta-keg-o-rator, Pt 3"
 date:   2015-7-20 21:42
 categories: beer kegs party
+author: Alex Ives
 seqprevious: /beer/kegs/party/2015/07/13/portable-kegorator-pt-2/
 seqnext: /beer/kegs/party/2015/07/31/portable-kegorator-pt-4/
 ---
