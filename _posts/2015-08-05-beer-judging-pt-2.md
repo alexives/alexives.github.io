@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title:  Beer Judging - An Update!
 date:   2015-8-05 21:42
 categories: beer
