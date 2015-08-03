@@ -3,6 +3,7 @@ layout: software
 title:  "An Eclipse Workflow for Alfred 2"
 date:   2015-5-2 10:30:42
 categories: alfred ide
+author: Alex Ives
 icon: images/eclipse.png
 latest_release: /files/Eclipse.alfredworkflow
 ---

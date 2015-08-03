@@ -3,6 +3,7 @@ layout: software
 title:  "Play/Pause workflow for<br />Alfred 2"
 date:   2015-07-28 14:16:42
 categories: alfred code
+author: Alex Ives
 icon: images/play-pause/Play-Pause.png
 repo: https://github.com/alexives/play-pause-alfred-workflow
 latest_release: https://github.com/alexives/play-pause-alfred-workflow/releases/latest

@@ -3,6 +3,7 @@ layout: project
 title:  "Keyboards, I use them. A lot."
 date:   2014-9-17 13:58:44
 categories: keyboards
+author: Alex Ives
 seqnext: /keyboards/2014/10/05/sourcing-the-ergodox/
 ---
 My quest for keyboards started about a year ago. I started getting pain in my wrists after work. As a software engineer, my wrists are very important to me. Being comfortable is very important to me. So I thought I would share with you my path to where I am today, and keep you updated along with what I'm doing.

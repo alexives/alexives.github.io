@@ -3,6 +3,7 @@ layout: post
 title:  "Alfred 2, why I ditched spotlight."
 date:   2015-05-01 14:16:42
 categories: alfred ide
+author: Alex Ives
 ---
 
 A few months ago, I switched from using OS X's built in product spotlight to [Alfred 2](http://www.alfredapp.com/), which is a thrid party tool along the same lines. There were a number of reasons that I switched. The biggest issue I aways had with spolight was the Calculator. I know it may sound silly but the way the calculator works in spolight is pretty much the worst. So you type an expression like 90*2.125 (2 1/8 Inches at 90 ppi), and it shows you the answer is 191.25. This sounds good, that's the right answer after all. This is wehre the problem starts though. ![Bad Calculator]({{site.baseurl}}/images/spotlight/spotlight-caclulator.png)  Up until here, Alfred and Spotlight behave pretty similarly. The difference is when you hit enter. If you're like me, you expect something useful to happen, like copy the answer to your cliboard or something (which is precisely what Alfred does), but no, it opens the calculator app. So, that's not so bad right, at least it puts the expression from spotlight into your calculator so you COULD copy the answer, right? Wrong. It opens an empty calculator app.

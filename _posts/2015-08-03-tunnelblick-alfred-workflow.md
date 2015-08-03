@@ -4,6 +4,7 @@ title:  "Tunnelblick workflow for<br />Alfred 2"
 date:   2015-08-03 14:16:42
 categories: alfred code
 icon: images/tunnelblick.png
+author: Alex Ives
 repo: https://github.com/alexives/tunnelblick-workflow
 latest_release: https://github.com/alexives/tunnelblick-workflow/releases/latest
 ---

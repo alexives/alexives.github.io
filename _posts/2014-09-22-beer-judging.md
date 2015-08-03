@@ -3,6 +3,8 @@ layout: post
 title:  "Beer Judging"
 date:   2014-9-22 12:02:17
 categories: beer
+author: Alex Ives
+seqnext: /beer/2015/08/05/beer-judging-pt-2/
 ---
 
 ~3 years ago I started home-brewing beer. Which, if you don't do it now, think about starting. If you like quality beer, it's a good way to get a lot of it for cheap, and your friends will love you forever. There will never again be a discussion about who's house you want to meet at, it will almost always be yours.
