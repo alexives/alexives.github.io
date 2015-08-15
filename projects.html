@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Software
-permalink: /software/
+title: Projects
+permalink: /projects/
 ---
-I do some random software things. When I do, I'll try to document them here.
+
+<div class="home">
+I do a variety of projects, from portable kegorators to failing at diy keyboards, all of my project posts get categorized here. Take a look!
 <ul class="posts">
 {% for post in site.posts %}
-  {% if post.layout == 'software' %}
+  {% if post.layout == 'project' %}
     <li>
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -14,3 +16,4 @@ I do some random software things. When I do, I'll try to document them here.
   {% endif %}
 {% endfor %}
 </ul>
+</div>
