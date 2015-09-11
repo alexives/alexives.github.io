@@ -5,6 +5,7 @@ date:   2015-8-25 17:58:44
 categories: keyboards
 author: Alex Ives
 seqprevious: /keyboards/2015/06/29/ergodox-update/
+seqnext: /keyboards/2015/09/10/ergodox-wrist-rest/
 ---
 Well, let me start with the bad news. The finished keyboard is not an ergodox infinity. There have been many delays on producint the ergodox infinity. The PCB's were bad and they needed to be re-worked. Then when the got the 2000 PCBs back, the cases they had no longer fit them, so they needed to get new cases. Which they were quoted 20 days on, a few days ago.
 
