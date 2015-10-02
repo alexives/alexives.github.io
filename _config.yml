@@ -6,6 +6,7 @@ baseurl: ""
 url: ""
 github_username:  alexives
 twitter_username: alexeives
+linkedin_profile: https://www.linkedin.com/pub/alexander-ives/42/916/253
 
 # Build settings
 markdown: kramdown

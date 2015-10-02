@@ -1,6 +1,7 @@
 ---
 layout: software
 title:  "Tunnelblick workflow for<br />Alfred 2"
+head_title: "Tunnelblick workflow for Alfred 2"
 date:   2015-08-03 14:16:42
 categories: alfred code
 icon: images/tunnelblick.png

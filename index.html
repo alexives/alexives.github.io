@@ -5,23 +5,11 @@ layout: default
 <div class="home">
 
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10 %}
       {% if post.layout != 'beer' %}
         <li>
           <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <ul class="beer" style="display:none">
-    <span class="beer-review">Beer Reviews</span>
-    {% for post in site.posts %}
-      {% if post.layout == 'beer' %}
-        <li class="beer-review">
-          <a class="beer-review-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.beer }} by {{ post.brewery }}<br /> 
-          <span class="beer-review-date">{{ post.date | date: "%b %-d, %Y" }} - {{ post.overall-score }}</span></a>
         </li>
       {% endif %}
     {% endfor %}

@@ -1,6 +1,7 @@
 ---
 layout: software
 title:  "Play/Pause workflow for<br />Alfred 2"
+head_title:  "Play/Pause workflow for Alfred 2"
 date:   2015-07-28 14:16:42
 categories: alfred code
 author: Alex Ives
