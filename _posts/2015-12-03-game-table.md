@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Building a Game Table
-date:   2015-10-10 17:58:44
+date:   2015-12-03 17:58:44
 categories: gaming projects
 author: Alex Ives
 ---
