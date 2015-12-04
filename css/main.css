@@ -295,7 +295,6 @@ img {
 
 .post img {
   max-width: 800px;
-  max-height: 4;
   float: right;
   margin: 10px 0;
 }
@@ -475,6 +474,11 @@ span.overall-score {
 
 
 @media screen and (max-width: 750px) {
+
+  .post img {
+    max-width: 100%;
+    min-width: 200px;
+  }
 
   .footer-col-1 { width: 50%; }
 
