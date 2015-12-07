@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Custom Ergodox Connector Cable
-date:   2015-12-03 17:58:44
+date:   2015-12-06 19:15:44
 categories: gaming projects
 author: Alex Ives
 ---
