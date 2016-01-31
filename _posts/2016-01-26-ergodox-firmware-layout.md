@@ -1,7 +1,6 @@
 ---
 layout: software
 title:  Ergodox Qwerty Layout
-head_title: "Tunnelblick workflow for Alfred 2"
 date:   2016-01-26 20:16:42
 categories: code keyboard
 icon: images/ergodox/layout/fn-key.png
