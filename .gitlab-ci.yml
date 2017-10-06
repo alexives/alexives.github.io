@@ -6,22 +6,27 @@ variables:
 before_script:
   - bundle install
 
+stages:
+  - test
+  - deploy
+
 test:
   stage: test
   script:
-  - bundle exec jekyll build -d test
+    - bundle exec jekyll build -d test
   artifacts:
     paths:
-    - test
-  except:
-  - master
+      - test
 
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public
+    - bundle exec jekyll build -d public
   artifacts:
     paths:
     - public
   only:
-  - master
+    - master
+  environment:
+    name: production
+    url: https://alexives.gitlab.io
