@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/alexives
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alex.ives.mn
+  * I am alexives (https://keybase.io/alexives) on keybase.
+  * I have a public key ASDRi3xhg_gHRBlPMS1QWfHpc4OzRnXTDJvX75MLhdLGxwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d18b7c6183f80744194f312d5059f1e97383b34675d30c9bd7ef930b85d2c6c70a",
+      "host": "keybase.io",
+      "kid": "0120d18b7c6183f80744194f312d5059f1e97383b34675d30c9bd7ef930b85d2c6c70a",
+      "uid": "f03ae44e11f71b4c2a7e284d85b94619",
+      "username": "alexives"
+    },
+    "merkle_root": {
+      "ctime": 1507311263,
+      "hash": "4ea9ede84326ea61918e9758fe61198177ac07c5bb28214de32eacf20bfdd8ef06262e2a09cb861d08f6fcd20af3852cdb360ffd76dece11fe9f1b79105793b3",
+      "hash_meta": "50d3f143672ac45fa839222bf7748bf8cd835ae4836699b3ddc9ac52cd613c74",
+      "seqno": 1528700
+    },
+    "service": {
+      "hostname": "alex.ives.mn",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507311276,
+  "expire_in": 504576000,
+  "prev": "56ca2473b4f0522fa6a0dfda12e80687b86f7465d0e3849200689e1170e07b1b",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0Yt8YYP4B0QZTzEtUFnx6XODs0Z10wyb1++TC4XSxscKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDE4YjdjNjE4M2Y4MDc0NDE5NGYzMTJkNTA1OWYxZTk3MzgzYjM0Njc1ZDMwYzliZDdlZjkzMGI4NWQyYzZjNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDE4YjdjNjE4M2Y4MDc0NDE5NGYzMTJkNTA1OWYxZTk3MzgzYjM0Njc1ZDMwYzliZDdlZjkzMGI4NWQyYzZjNzBhIiwidWlkIjoiZjAzYWU0NGUxMWY3MWI0YzJhN2UyODRkODViOTQ2MTkiLCJ1c2VybmFtZSI6ImFsZXhpdmVzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MzExMjYzLCJoYXNoIjoiNGVhOWVkZTg0MzI2ZWE2MTkxOGU5NzU4ZmU2MTE5ODE3N2FjMDdjNWJiMjgyMTRkZTMyZWFjZjIwYmZkZDhlZjA2MjYyZTJhMDljYjg2MWQwOGY2ZmNkMjBhZjM4NTJjZGIzNjBmZmQ3NmRlY2UxMWZlOWYxYjc5MTA1NzkzYjMiLCJoYXNoX21ldGEiOiI1MGQzZjE0MzY3MmFjNDVmYTgzOTIyMmJmNzc0OGJmOGNkODM1YWU0ODM2Njk5YjNkZGM5YWM1MmNkNjEzYzc0Iiwic2Vxbm8iOjE1Mjg3MDB9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWxleC5pdmVzLm1uIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzMxMTI3NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1NmNhMjQ3M2I0ZjA1MjJmYTZhMGRmZGExMmU4MDY4N2I4NmY3NDY1ZDBlMzg0OTIwMDY4OWUxMTcwZTA3YjFiIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAaz9mDgK23CzqzQcxKuKhoGDWtNnskB2Cd5/6v/X3ZGjvv85UiivGflw9OOcH4o9hsjfAaDkpDhJLsDWaBbu1DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE97hFb+bA4467jwzjXgvMc3WIPVIDytD75E5XncOKOJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexives
+
+==================================================================
