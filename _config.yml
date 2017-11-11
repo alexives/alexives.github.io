@@ -15,3 +15,39 @@ permalink: pretty
 
 gems:
   - jekyll-paginate
+prose:
+  ignore: ['_includes', 'Gemfile', '_config.yml', '.gitignore', '.ruby-version', '.gitlab-ci.yml', 'CNAME', 'feed.xml', 'keybase.txt', 'README.md', '_layouts', '_site', 'css']
+  media: 'images'
+  metadata:
+    _posts:
+      - name: layout
+        field:
+          element: select
+          label: layout
+          value: post
+          options:
+            - name: 'Blog Post'
+              value: 'post'
+            - name: 'Project Post'
+              value: 'project'
+      - name: title
+        element: text
+        label: Post Title
+        placeholder: A title for your post
+      - name: date
+        element: text
+        label: Post Date
+      - name: categories
+        element: text
+        label: Post Categories
+        placeholder: fruit, beer, keyboards
+      - name: author
+        element: text
+        label: Post Author
+        value: Alex Ives
+      - name: seqnext
+        element: text
+        label: Next article in series
+      - name: seqprevious
+        element: text
+        label: Previous article in series
