@@ -23,7 +23,7 @@ prose:
       - name: layout
         field:
           element: select
-          label: layout
+          label: Layout
           value: post
           options:
             - name: 'Blog Post'
@@ -31,23 +31,32 @@ prose:
             - name: 'Project Post'
               value: 'project'
       - name: title
-        element: text
-        label: Post Title
-        placeholder: A title for your post
+        field:
+          element: text
+          label: Post Title
+          placeholder: A title for your post
       - name: date
-        element: text
-        label: Post Date
+        field:
+          element: text
+          label: Post Date
       - name: categories
-        element: text
-        label: Post Categories
-        placeholder: fruit, beer, keyboards
+        field:
+          element: text
+          label: Post Categories
+          placeholder: fruit, beer, keyboards
       - name: author
-        element: text
-        label: Post Author
-        value: Alex Ives
+        field:
+          element: text
+          label: Post Author
+          value: Alex Ives
       - name: seqnext
-        element: text
-        label: Next article in series
+        field:
+          element: text
+          label: Next article in series
       - name: seqprevious
-        element: text
-        label: Previous article in series
+        field:
+          element: text
+          label: Previous article in series
+  users:
+    - login: alexives
+      user: Alex Ives
